@@ -1,5 +1,5 @@
 # This is a template for a Python scraper on Morph (https://morph.io)
-# more or less forked from nocola hughes
+# more or less forked from Nicola Hughes
 
 import scraperwiki
 import simplejson
